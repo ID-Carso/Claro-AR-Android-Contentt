@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3531069446
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: claroshopscan
+      Dependencies: {}
+    Info_1:
+      Name: factorygame
+      Dependencies: {}
+    Info_2:
+      Name: factory
+      Dependencies: {}

@@ -1,0 +1,75 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/yashernandez/Documents/GitHub/ClaroContent
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63766
+Successfully changed project path to: /Users/yashernandez/Documents/GitHub/ClaroContent
+/Users/yashernandez/Documents/GitHub/ClaroContent
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/yashernandez/Documents/GitHub/ClaroContent/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-05 12:17:41.069 Unity[16910:745219] Color LCD preferred device: Intel(R) HD Graphics 630 (low power)
+2021-07-05 12:17:41.069 Unity[16910:745219] Metal devices available: 2
+2021-07-05 12:17:41.069 Unity[16910:745219] 0: AMD Radeon Pro 560 (high power)
+2021-07-05 12:17:41.069 Unity[16910:745219] 1: Intel(R) HD Graphics 630 (low power)
+2021-07-05 12:17:41.069 Unity[16910:745219] Using device AMD Radeon Pro 560 (high power)
+Initializing Metal device caps: AMD Radeon Pro 560
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56910
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000601 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 28.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.029 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000436 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1157 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.3 MB.
+System memory in use after: 115.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 2.802311 ms (FindLiveObjects: 0.237110 ms CreateObjectMapping: 0.080033 ms MarkObjects: 2.370473 ms  DeleteObjects: 0.112478 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Game/Model/CajaPesa/CajaPesa.controller
+  artifactKey: Guid(044ac5a6d9f264cc4bca06f860e5c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Model/CajaPesa/CajaPesa.controller using Guid(044ac5a6d9f264cc4bca06f860e5c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fbfaea5124877688775e4da6f8e3d7') in 1.390734 seconds
+  Import took 1.393633 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 59512366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5019a26f4624805cb7638528375b0285
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7b25fde48b0c17b6f543d6b6cd4777a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cf08cc2a944e45e8969e07057808216, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e73d8a04c75ba4708ac3b48e814a8e28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be34a7af481b44ec8aa09b609bf6095b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb15b136676c643e5a0e5350a3cb9763, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fd12d5eae006429b9d47fc550034ae1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/mynewbundle/factoryGame.prefab
+Dependencies: []
